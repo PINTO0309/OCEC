@@ -1,0 +1,10 @@
+__pycache__/
+data/cropped/
+data/extracted/
+data/dataset.parquet
+real_data/
+*.onnx
+*.pt
+*.pth
+*.engine
+*.profile
