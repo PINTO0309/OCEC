@@ -3,6 +3,7 @@ data/cropped/
 data/extracted/
 data/dataset.parquet
 real_data/
+VSDLM/
 *.onnx
 *.pt
 *.pth
