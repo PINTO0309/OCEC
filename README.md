@@ -6,7 +6,7 @@ open closed eyes classification
 |P|112 KB||0.18 ms|[Download]()|
 |N|176 KB||0.31 ms|[Download]()|
 |S|494 KB|0.9939|0.50 ms|[Download]()|
-|M|1.7 MB||0.70 ms|[Download]()|
+|M|1.7 MB|0.9943|0.70 ms|[Download]()|
 |L|6.4 MB||0.91 ms|[Download]()|
 
 ```bash
