@@ -4,6 +4,7 @@ data/extracted/
 data/dataset.parquet
 real_data/
 VSDLM/
+runs/
 *.onnx
 *.pt
 *.pth
