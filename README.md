@@ -9,6 +9,31 @@ open closed eyes classification
 |M|1.7 MB|0.9943|0.57 ms|[Download]()|
 |L|6.4 MB|0.9948|0.80 ms|[Download]()|
 
+## Setup
+
+```bash
+git clone https://github.com/PINTO0309/OCEC.git && cd OCEC
+curl -LsSf https://astral.sh/uv/install.sh | sh
+uv sync
+source .venv/bin/activate
+```
+## Inference
+
+```bash
+uv run python demo_ocec.py \
+-v 0 \
+-m deimv2_dinov3_s_wholebody34_1750query_n_batch_640x640.onnx \
+-vm ocec_l.onnx \
+-ep cuda
+
+uv run python demo_ocec.py \
+-v 0 \
+-m deimv2_dinov3_s_wholebody34_1750query_n_batch_640x640.onnx \
+-vm ocec_l.onnx \
+-ep tensorrt
+```
+
+## Dataset Preparation
 ```bash
 uv run python 01_dataset_viewer.py --split train
 uv run python 01_dataset_viewer.py --split train --visualize
