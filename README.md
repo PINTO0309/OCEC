@@ -258,7 +258,7 @@ If you find this project useful, please consider citing:
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.17505461},
   url       = {https://github.com/PINTO0309/ocec},
-  abstract  = {Open closed eyes classification. Ultra-fast wink / blink estimation model.},
+  abstract  = {Open closed eyes classification. Ultra-fast wink/blink estimation model.},
 }
 ```
 
