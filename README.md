@@ -3,6 +3,8 @@
 
 Open closed eyes classification. Ultra-fast wink and blink estimation model.
 
+In the real world, it would be foolish to expect to detect eyes larger than 20 pixels high and 40 pixels wide.
+
 https://github.com/user-attachments/assets/2ae9467f-a67f-447e-8704-d16efacdacf1
 
 |Variant|Size|F1|CPU<br>inference<br>latency|ONNX|
