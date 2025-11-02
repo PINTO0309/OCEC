@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/2ae9467f-a67f-447e-8704-d16efacdacf1
 |:-:|:-:|:-:|:-:|:-:|
 |P|112 KB|0.9924|0.16 ms|[Download](https://github.com/PINTO0309/OCEC/releases/download/onnx/ocec_p.onnx)|
 |N|176 KB|0.9933|0.25 ms|[Download](https://github.com/PINTO0309/OCEC/releases/download/onnx/ocec_n.onnx)|
-|S|494 KB||0.41 ms|[Download]()|
+|S|494 KB|0.9943|0.41 ms|[Download](https://github.com/PINTO0309/OCEC/releases/download/onnx/ocec_s.onnx)|
 |C|875 KB|||[Download]()|
 |M|1.7 MB||0.57 ms|[Download]()|
 |L|6.4 MB|0.9954|0.80 ms|[Download](https://github.com/PINTO0309/OCEC/releases/download/onnx/ocec_l.onnx)|
