@@ -94,31 +94,13 @@ uv run python 03_wholebody34_data_extractor.py \
 #     open: 110796
 
 # Eye-only detection summary
-#   Total images: 138078
-#   Images with detection: 137290
-#   Images without detection: 788
-#   Images with >=3 detections: 1205
-#   Crops per label:
-#     closed: 136331
-#     open: 123451
-
-# Eye-only detection summary
-#   Total images: 140333
-#   Images with detection: 139540
-#   Images without detection: 793
-#   Images with >=3 detections: 1228
-#   Crops per label:
-#     closed: 136331
-#     open: 127701
-
-# Eye-only detection summary
 #   Total images: 144146
-#   Images with detection: 143353
-#   Images without detection: 793
-#   Images with >=3 detections: 1228
+#   Images with detection: 143364
+#   Images without detection: 782
+#   Images with >=3 detections: 1221
 #   Crops per label:
-#     closed: 136331
-#     open: 135304
+#     closed: 136347
+#     open: 135319
 ```
 
 ```bash
@@ -132,11 +114,8 @@ uv run python 04_dataset_convert_to_parquet.py \
 #Split summary: {'train_total': 196253, 'train_closed': 107617, 'train_open': 88636, 'val_total': 49065, 'val_closed': 26905, 'val_open': 22160}
 #Saved dataset to data/dataset.parquet (245318 rows).
 
-# Split summary: {'train_total': 207824, 'train_closed': 109064, 'train_open': 98760, 'val_total': 51958, 'val_closed': 27267, 'val_open': 24691}
-# Saved dataset to data/dataset.parquet (259782 rows).
-
-# Split summary: {'train_total': 211224, 'train_closed': 109064, 'train_open': 102160, 'val_total': 52808, 'val_closed': 27267, 'val_open': 25541}
-# Saved dataset to data/dataset.parquet (264032 rows).
+# Split summary: {'train_total': 217332, 'train_closed': 109077, 'train_open': 108255, 'val_total': 54334, 'val_closed': 27270, 'val_open': 27064}
+# Saved dataset to data/dataset.parquet (271666 rows).
 ```
 
 Generated parquet schema (`split`, `label`, `class_id`, `image_path`, `source`):
