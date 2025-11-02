@@ -263,7 +263,7 @@ If you find this project useful, please consider citing:
 ```
 
 ## Acknowledgements
-- https://huggingface.co/datasets/MichalMlodawski/closed-open-eyes
+- https://huggingface.co/datasets/MichalMlodawski/closed-open-eyes: Open Data Commons Attribution License (ODC-By) v1.0
   ```bibtex
   @misc{open_closed_eyes2024,
     author = {Michał Młodawski},
