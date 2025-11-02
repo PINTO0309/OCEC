@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/2ae9467f-a67f-447e-8704-d16efacdacf1
 
 |Variant|Size|F1|CPU<br>inference<br>latency|ONNX|
 |:-:|:-:|:-:|:-:|:-:|
-|P|112 KB||0.16 ms|[Download]()|
+|P|112 KB|0.9924|0.16 ms|[Download]()|
 |N|176 KB||0.25 ms|[Download]()|
 |S|494 KB||0.41 ms|[Download]()|
 |C|875 KB|||[Download]()|
