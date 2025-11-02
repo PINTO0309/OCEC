@@ -3,7 +3,7 @@
 
 Open closed eyes classification. Ultra-fast wink and blink estimation model.
 
-In the real world, it would be a waste of computational resources to attempt to detect eyes larger than 20 pixels high and 40 pixels wide.
+In the real world, attempting to detect eyes larger than 20 pixels high and 40 pixels wide is a waste of computational resources.
 
 https://github.com/user-attachments/assets/2ae9467f-a67f-447e-8704-d16efacdacf1
 
