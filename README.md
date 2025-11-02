@@ -141,7 +141,6 @@ Rows are stratified within each label before concatenation, so both splits keep 
 ## Training Pipeline
 
 - Use the images located under `dataset/output/002_xxxx_front_yyyyyy` together with their annotations in `dataset/output/002_xxxx_front.csv`.
-- Only samples with `class_id` equal to 1 (closed) or 2 (open) are used. Label 0 (unknown) is dropped, and the remaining labels are remapped to 0 (closed) and 1 (open).
 - Every augmented image that originates from the same `still_image` stays in the same split to prevent leakage.
 - The training loop relies on `BCEWithLogitsLoss`, `pos_weight`, and a `WeightedRandomSampler` to stabilise optimisation under class imbalance; inference produces sigmoid probabilities.
 - Training history, validation metrics, optional test predictions, checkpoints, configuration JSON, and ONNX exports are produced automatically.
