@@ -1,6 +1,8 @@
 # OCEC
 open closed eyes classification
 
+https://github.com/user-attachments/assets/2ae9467f-a67f-447e-8704-d16efacdacf1
+
 |Variant|Size|F1|CPU<br>inference<br>latency|ONNX|
 |:-:|:-:|:-:|:-:|:-:|
 |P|112 KB||0.16 ms|[Download]()|
