@@ -1,5 +1,5 @@
 # OCEC
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17505461.svg)](https://doi.org/10.5281/zenodo.17505461) ![GitHub License](https://img.shields.io/github/license/pinto0309/ecec) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/PINTO0309/ecec)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17505461.svg)](https://doi.org/10.5281/zenodo.17505461) ![GitHub License](https://img.shields.io/github/license/pinto0309/ocec) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/PINTO0309/ocec)
 
 Open closed eyes classification. Ultra-fast wink and blink estimation model.
 
