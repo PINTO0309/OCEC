@@ -3,11 +3,11 @@ open closed eyes classification
 
 |Variant|Size|F1|CPU<br>inference<br>latency|ONNX|
 |:-:|:-:|:-:|:-:|:-:|
-|P|112 KB|0.9911|0.18 ms|[Download]()|
-|N|176 KB|0.9922|0.31 ms|[Download]()|
-|S|494 KB|0.9939|0.50 ms|[Download]()|
-|M|1.7 MB|0.9943|0.70 ms|[Download]()|
-|L|6.4 MB|0.9948|0.91 ms|[Download]()|
+|P|112 KB|0.9911|0.16 ms|[Download]()|
+|N|176 KB|0.9922|0.25 ms|[Download]()|
+|S|494 KB|0.9939|0.41 ms|[Download]()|
+|M|1.7 MB|0.9943|0.57 ms|[Download]()|
+|L|6.4 MB|0.9948|0.80 ms|[Download]()|
 
 ```bash
 uv run python 01_dataset_viewer.py --split train
