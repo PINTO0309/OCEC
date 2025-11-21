@@ -256,6 +256,7 @@ uv run python -m ocec exportonnx \
 4. [SC: Ultrafast sitting classification](https://github.com/PINTO0309/SC) - MIT License
 5. [PUC: Phone Usage Classifier is a three-class image classification pipeline for understanding how people
 interact with smartphones](https://github.com/PINTO0309/PUC) - MIT License
+6. [HSC: Happy smile classifier](https://github.com/PINTO0309/HSC) - MIT License
 
 ## Citation
 
