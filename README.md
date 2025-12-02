@@ -258,6 +258,7 @@ uv run python -m ocec exportonnx \
 interact with smartphones](https://github.com/PINTO0309/PUC) - MIT License
 6. [HSC: Happy smile classifier](https://github.com/PINTO0309/HSC) - MIT License
 7. [WHC: Waving Hand Classification](https://github.com/PINTO0309/WHC) - MIT License
+8. [UHD: Ultra-lightweight human detection](https://github.com/PINTO0309/UHD) - MIT License
 
 ## Citation
 
