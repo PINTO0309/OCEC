@@ -261,6 +261,7 @@ interact with smartphones](https://github.com/PINTO0309/PUC) - MIT License
 8. [UHD: Ultra-lightweight human detection](https://github.com/PINTO0309/UHD) - MIT License
 9. [MWC: Mask wearing classifier](https://github.com/PINTO0309/MWC) - MIT License
 10. [SGC: Classification of wearing vs. not wearing sunglasses. 48x48.](https://github.com/PINTO0309/SGC) - MIT License
+11. [HHC: Head Hat Classification. HHC is a binary classifier for cropped head images. 48x48.](https://github.com/PINTO0309/HHC) - MIT License
 
 ## Citation
 
