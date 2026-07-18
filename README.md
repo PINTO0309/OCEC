@@ -263,6 +263,7 @@ interact with smartphones](https://github.com/PINTO0309/PUC) - MIT License
 10. [SGC: Classification of wearing vs. not wearing sunglasses. 48x48.](https://github.com/PINTO0309/SGC) - MIT License
 11. [HHC: Head Hat Classification. HHC is a binary classifier for cropped head images. 48x48.](https://github.com/PINTO0309/HHC) - MIT License
 12. [BPC: Background Plain classification. 48x48.](https://github.com/PINTO0309/BPC) - MIT License
+13. [PPC: Binary classification to determine whether the subject is holding a smartphone. 48x48 RGB image.](https://github.com/PINTO0309/PPC) - MIT License
 
 ## Citation
 
